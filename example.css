@@ -1,0 +1,33 @@
+body {
+  background-color:#FFD3F8;
+}
+
+h1 {
+  text-align:center;
+  color:#391285;
+}
+
+h2 {
+  text-align: center;
+  color:#45A27D;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+li {
+  text-align: center;
+  display: flow-root;
+}
+
+li a {
+    display:grid;
+    color: black;
+}
